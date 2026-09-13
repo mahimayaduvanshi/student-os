@@ -6,7 +6,7 @@ It is specifically engineered not as an administrative college ERP or a simple a
 
 ## Live Demo
 
-- **Production URL**: https://student-os-eight-omega.vercel.app/
+- **Production URL**: https://studentos-academic.vercel.app/
 - **Demo Mode**: The application runs with complete functionality out-of-the-box without requiring account creation. Pre-seeded demo records allow immediate evaluation of all subsystems.
 
 ---
@@ -145,4 +145,4 @@ B.Sc. Information Technology<br />
 NIMS University
 
 * **GitHub**: [@mahimayaduvanshi](https://github.com/mahimayaduvanshi)
-* **Live Application**: [https://student-os-eight-omega.vercel.app/](https://student-os-eight-omega.vercel.app/)
+* **Live Application**: [https://studentos-academic.vercel.app/](https://studentos-academic.vercel.app/)
